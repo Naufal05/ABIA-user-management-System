@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ABIA-user-management-System/static/css/main.b10ce008.css",
+    "main.js": "/ABIA-user-management-System/static/js/main.658078b2.js",
+    "static/js/787.b74a6962.chunk.js": "/ABIA-user-management-System/static/js/787.b74a6962.chunk.js",
+    "static/media/logo.svg": "/ABIA-user-management-System/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ABIA-user-management-System/index.html",
+    "main.b10ce008.css.map": "/ABIA-user-management-System/static/css/main.b10ce008.css.map",
+    "main.658078b2.js.map": "/ABIA-user-management-System/static/js/main.658078b2.js.map",
+    "787.b74a6962.chunk.js.map": "/ABIA-user-management-System/static/js/787.b74a6962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.658078b2.js"
+  ]
+}
